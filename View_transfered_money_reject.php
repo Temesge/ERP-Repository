@@ -1,9 +1,3 @@
-<?php
- session_start(); 
- if (!isset($_SESSION["loggedinn-user"])) {
-    header("Location: login.php");
-}
-?>
 
 
 
