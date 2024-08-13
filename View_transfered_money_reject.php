@@ -6,6 +6,7 @@
 <head>
 <style>
             .button-74 {
+		    text-align:center;
   background-color: white;
   border: 2px solid black;
   border-radius: 30px;
